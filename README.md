@@ -52,9 +52,7 @@ The KEGG pathway enrichment results included the insulin signaling pathway, insu
 
 The network identifies proteins associated with insulin receptor signaling. STRING functional associations do not necessarily mean that every connected protein physically binds to another protein.
 
-![STRING Protein Network](f
-
-(Figures/03_string_network.png.JPG) 
+![STRING Protein Network](Figures/03_string_network.png.JPG) 
 
 ## IntAct Validation
 
